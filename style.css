@@ -5,6 +5,25 @@
     width: 120px;
     height: 50px;
     padding: 0 10px;
+    
+}
+
+.navbar{
+    background: lightgray;
+}
+
+.navbar-text{
+    color: black;
+    font-size: 20px;
+    transition: .4s;
+    font-weight: bold;
+
+}
+
+.navbar-text:hover{
+    transform: scale(1.1);
+    text-decoration: underline;
+    font-weight: bold;
 }
 
 
@@ -19,6 +38,14 @@
     background-position: center;
     background-size: 7%;
 }
+
+.carousel-bg-1{
+    
+    background-repeat: no-repeat;
+    background-position: left;
+   
+}
+
 
 .buy-now-button{
     background: #000;
