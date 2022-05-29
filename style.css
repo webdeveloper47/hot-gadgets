@@ -1,0 +1,155 @@
+
+/* Navbar start */
+
+.navbar-brand img{
+    width: 120px;
+    height: 50px;
+    padding: 0 10px;
+}
+
+
+/* Navbar end */
+
+
+/* carousel Start */
+
+.carousel-bg{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 7%;
+}
+
+.buy-now-button{
+    background: #000;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.carousel1{
+    padding: 120px 50px;
+}
+
+
+/* carousel End */
+
+/* product start */
+
+.weight-font{
+    font-weight: bolder;
+}
+
+
+.card-title{
+    font-weight: bolder;
+}
+
+.card-footer{
+    background: white;
+    border-top: none;
+    align-self: center;
+}
+
+.card{
+    border: none;
+    border-bottom: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    margin-bottom: 100px;
+
+    height: 90%;
+}
+
+/* product start */
+
+
+/* Categories start */
+
+.img-width{
+   
+    width: 80px;
+    height: 80px;
+   
+
+}
+
+.img-bg{
+    background: #ffffff;
+    box-shadow: 15px 10px 10px lightgray;
+    width: 180px;
+    height:200px;
+    border: 2px solid lightgray;
+    border-radius: 40px 3px;
+   
+}
+
+
+#categories{
+    margin-bottom: 100px;
+}
+
+
+.hr-style{
+    border: 5px solid rgb(255, 52, 1);
+    width: 10%;
+   margin: auto;
+   margin-bottom: 50px;
+   border-radius: 10px;
+}
+/* Categories end */
+
+
+
+/* Contact-us start */
+#contact-us{
+    background-color: #ffffff;
+    box-shadow: 15px 10px 10px lightgray;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 100px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+
+}
+
+.text-color{
+    color: gray;
+}
+
+
+/* Contact-us end */
+
+
+
+
+/* footer start */
+
+
+footer{
+    background: lightgray;
+    
+}
+.social-media1{
+
+        text-decoration: none;
+        font-size: larger;
+}
+.social-media1:hover{
+
+    text-decoration: underline;
+}
+
+.social-media{
+    transition: .4s;
+
+}
+
+.social-media:hover{
+    transform: scale(1.7);
+    color: gray;
+   
+}
+
+
+
+
+/* footer end */
